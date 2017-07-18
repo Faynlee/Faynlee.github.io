@@ -1,7 +1,7 @@
 ---
 title: "Markdown Common Elements"
 layout: post
-date: 2016-02-24 22:44
+date: 2017-06-24 21:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,7 @@ tag:
 - elements
 star: true
 category: blog
-author: johndoe
+author: faynlee
 description: Markdown summary with different options
 ---
 
@@ -145,11 +145,11 @@ Markdown can also contain images. I'll need to add something here sometime.
 
 {% highlight raw %}
 ![Markdowm Image][/image/url]
-<figcaption class="caption">Photo by John Doe</figcaption>
+<figcaption class="caption">Photo by Fayn Lee</figcaption>
 {% endhighlight %}
 
 ![Markdowm Image][6]
-<figcaption class="caption">Photo by John Doe</figcaption>
+<figcaption class="caption">Photo by Fayn Lee</figcaption>
 
 *Bigger Images*?
 

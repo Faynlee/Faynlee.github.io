@@ -22,5 +22,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="#">NONE</a></li>
 </ul>

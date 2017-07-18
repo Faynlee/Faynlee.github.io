@@ -1,7 +1,7 @@
 ---
 title: "Markdown Extra Components"
 layout: post
-date: 2016-02-24 22:48
+date: 2017-06-24 21:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
+author: faynlee
 description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
@@ -55,7 +55,7 @@ Like the [Medium](https://medium.com/) component.
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <figcaption class="caption">Photo by Fayn Lee</figcaption>
     </div>
 
     <div class="toright">
@@ -67,7 +67,7 @@ Like the [Medium](https://medium.com/) component.
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <figcaption class="caption">Photo by Fayn Lee</figcaption>
     </div>
 
     <div class="toright">
@@ -125,6 +125,7 @@ You can add a especial *hr* to your text.
 
 ---
 
+<!-- 
 ## Spoiler
 
 You can add an especial hidden content that appears on hover.
@@ -176,6 +177,7 @@ Add your presentations here!
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ---
+ -->
 
 ## Videos
 
