@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="assets/images/preview.jpg" />
+    <img src="https://github.com/Faynlee/faynlee.github.io/blob/master/assets/images/preview.jpeg" />
 </p>
 
 ## What has inside
