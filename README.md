@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+    <img src="assets/images/preview.jpg" />
 </p>
 
 ## What has inside
@@ -29,10 +29,10 @@
 
 ## Setup
 
-0. :star: to the project. :metal:
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-4. Write some posts :bowtie:
+0. ​:star: to the project. :metal:
+1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+2. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
+3. Write some posts :bowtie:
 
 If you want to test locally on your machine, do the following steps also:
 
@@ -48,9 +48,9 @@ If you want to test locally on your machine, do the following steps also:
 You must fill some informations on `_config.yml` to customize your site.
 
 ```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
+name: Fayn Lee
+bio: 'Contentment brings happiness :octocat:.'
+picture: 'assets/images/fayn.jpg'
 ...
 
 and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
