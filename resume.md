@@ -4,5 +4,5 @@ layout: page
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 <p align="center">
-	<img src="/assets/images/resume.jpg" />
+	<img src="/assets/images/resume.jpeg" />
 </p>
